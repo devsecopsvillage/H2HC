@@ -20,7 +20,7 @@ Neste ano, contamos com uma estrutura de:
 - 6 palestras
 - duas atividades interativas
   - Bingo de temas de infosec, com prêmios
-  - Certgame, jogo de tabueiro sobre infosec
+  - [Certgame](https://github.com/devsecopsvillage/certgame), jogo de tabueiro sobre infosec
 - Brindes
   - Canecas
   - [Adesivos](adesivos)
