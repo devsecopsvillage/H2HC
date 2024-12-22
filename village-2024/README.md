@@ -1,4 +1,4 @@
-<h1 align="center"> Organização - DevSecOps Village </h1>
+<h1 align="center"> Organização - DevSecOps Village 2024</h1>
 
 Temos o prazer de informá-los que haverá uma *Village de DevSecOps na H2HC 2024*. </br> Estamos planejando uma sequência de palestras e atividades para vocês! 
 
@@ -11,6 +11,21 @@ Durante o processo de avaliação, foram consideradas as seguintes temáticas:
 - Conscientização
 - Inteligência Artificial
 - Segurança de Aplicações
+
+---
+
+<h1 align="center"> Atividades </h1>
+Neste ano, contamos com uma estrutura de:
+
+- 6 palestras
+- duas atividades interativas
+  - Bingo de temas de infosec, com prêmios
+  - Certgame, jogo de tabueiro sobre infosec
+- Brindes
+  - Canecas
+  - [Adesivos](adesivos)
+  - [Bottons](bottons)
+- Rodas de conversa sobre os temas das palestras
 
 ---
 
@@ -32,3 +47,8 @@ Durante o processo de avaliação, foram consideradas as seguintes temáticas:
 | *11:00h* | 15/12/2024 | [Guilherme Filgueiras](https://www.linkedin.com/in/guilhermefr/) | Melhorando a Segurança de Containers: Boas Práticas e Ferramentas Essenciais | [PPTX](./pptx/Containers%20-%20Guilherme%20Filgueiras.pdf) |
 | *14:30h* | 15/12/2024 | [Allan Kardec](https://www.linkedin.com/in/kaardeco/) & [Fernando Guisso](https://www.linkedin.com/in/fernandoguisso/) | Dont Break Our Rules: Automatizing Requirements Tests | [PPTX](./pptx/Dont%20Break%20Our%20Rules%20-%20Kardeco%20e%20Guisso.pdf) |
 
+---
+<div align="center">
+<h1> Flyer de divulgação </h1>
+<img src="https://github.com/devsecopsvillage/H2HC/blob/main/village-2024/flyer.png" alt="Texto Alternativo">
+</div>
