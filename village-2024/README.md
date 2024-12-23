@@ -50,5 +50,5 @@ Neste ano, contamos com uma estrutura de:
 ---
 <div align="center">
 <h1> Flyer de divulgação </h1>
-<img src="https://github.com/devsecopsvillage/H2HC/blob/main/village-2024/flyer.png" alt="Texto Alternativo">
+<img src="https://github.com/devsecopsvillage/H2HC/blob/main/village-2024/flyer-divulgacao.png" alt="Texto Alternativo">
 </div>
